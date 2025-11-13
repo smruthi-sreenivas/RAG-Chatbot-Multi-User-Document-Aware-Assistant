@@ -1,0 +1,11 @@
+streamlit
+langchain-ollama
+langchain-elasticsearch
+langchain-community
+langchain
+elasticsearch
+redis
+beautifulsoup4
+requests
+python-dotenv
+pypdf
